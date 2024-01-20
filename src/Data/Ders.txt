@@ -1,7 +1,0 @@
-Ders Kodu: 1254, Ders İsmi: Kimya
-Ders Kodu: 6102, Ders İsmi: Matematij
-Ders Kodu: 12341, Ders İsmi: BİP2012
-Ders Kodu: , Ders İsmi: 
-Ders Kodu: , Ders İsmi: 
-Ders Kodu: 1231, Ders İsmi: 213132
-Ders Kodu: 1232, Ders İsmi: Kerem, Fakülte:null, Departman:null

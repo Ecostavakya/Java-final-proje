@@ -1,2 +1,0 @@
-Ögretmen Adı: , Ögretmen Soyadı: , Ogretmen No: , Ogretmen Ders: null
-Ögretmen Adı: asdasd, Ögretmen Soyadı: dasd, Ogretmen No: asdasd, Ogretmen Ders: null
